@@ -2,3 +2,6 @@ cervesa
 ron con cocacola
 calimocho
 cocacola
+Fanta de naranja
+Fanta de limon
+Fanta de uva
